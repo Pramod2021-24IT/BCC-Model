@@ -1,1 +1,1 @@
-# BCC-Model
+# BCC-Model (BANK CUSTOMER CHURN MODEL)
